@@ -1,1 +1,0 @@
-This is standalone static HTML appliaction of DigitalSign
